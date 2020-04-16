@@ -710,6 +710,25 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rWiUQUB5mu {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f31f55;
+}
+@media (min-width: 992px) {
+  .cid-rWiUQUB5mu .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rWiUQUB5mu .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rWiUQUB5mu .mbr-text {
+  color: #ffffff;
+  text-align: left;
+}
 .cid-rVjVI0bdCx {
   padding-top: 60px;
   padding-bottom: 60px;
